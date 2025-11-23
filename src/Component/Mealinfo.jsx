@@ -1,7 +1,8 @@
 import React from 'react'
 import { useParams } from 'react-router-dom'
 import { useState } from 'react';
-import './Mealinfo.css'
+import { NavLink } from 'react-router-dom';
+// import './Mealinfo.css'
 
 
 

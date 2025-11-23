@@ -1,6 +1,6 @@
 import React from 'react'
 import { NavLink } from 'react-router-dom'
-import './Mealcards.css'
+// import './Mealcards.css'
 const Mealcards = ({details}) => {
     console.log(details)
   return (
